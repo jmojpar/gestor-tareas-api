@@ -33,7 +33,7 @@ Antes de que lleguen los alumnos, tener abierto y listo:
 - **VS Code** con el repo abierto en `aplicacion/rutas/tareas.py`.
 - Tener probado previamente que Devin puede acceder al repo (permisos de GitHub configurados).
 
-*Nota: los accesos a devin.ai deben verificarse el día anterior. Contactar con los participantes con 24 horas de antelación para confirmar que todos tienen cuenta activa. No dedicar tiempo de sesión a resolver accesos.*
+*Nota: los accesos a devin.ai deben verificarse el día anterior. Contactar con los participantes con 24 horas de antelación para confirmar que todos tienen cuenta activa y han hecho fork del repositorio del curso en GitHub (`github.com/jmojpar/gestor-tareas-api` → botón Fork). Sin el fork no podrán conectar el repo en Devin. No dedicar tiempo de sesión a resolver accesos.*
 
 ---
 
@@ -81,20 +81,20 @@ Abrid devin.ai e iniciad sesión con vuestra cuenta.
 
 *Esperar 1 minuto a que todos estén dentro.*
 
-Una vez dentro, lo que necesitamos hacer es dar a Devin acceso al repositorio. En el panel central veréis abajo del campo de texto que dice el número de repositorios conectados. Hacéis clic ahí.
+Una vez dentro, lo que necesitamos hacer es seleccionar el repositorio del curso. En el panel central veréis abajo del campo de texto que dice el número de repositorios conectados. Hacéis clic ahí.
 
 *Mostrar en pantalla el proceso paso a paso:*
 
 1. Clic en el selector de repositorios
-2. Si no tenéis ninguno conectado, os pedirá que autoricéis el acceso a GitHub — aceptáis
-3. Buscáis `gestor-tareas-api` — es el repositorio del usuario `jmojpar`
+2. Si es la primera vez, os pedirá que autoricéis el acceso a GitHub — aceptáis
+3. Buscáis `gestor-tareas-api` — aparecerá porque habéis hecho fork previamente
 4. Lo seleccionáis
 
 *Dar 2-3 minutos para que todos lo completen. Resolver dudas rápidas.*
 
-Perfecto. Con esto Devin ya tiene acceso al repositorio y podemos trabajar sobre él durante toda la sesión de hoy. En esta sesión solo le pediremos análisis — no le daremos instrucciones de modificar nada.
+*Nota para el formador: Devin solo muestra repos de la cuenta de GitHub del alumno — por eso es imprescindible que hayan hecho fork antes de la sesión. Si algún alumno no hizo fork, puede hacerlo ahora en `github.com/jmojpar/gestor-tareas-api` → botón Fork, y en 30 segundos lo tiene disponible en Devin.*
 
-*Nota para el formador: los accesos a devin.ai deben verificarse el día anterior. Contactar con los participantes con 24 horas de antelación para confirmar que todos tienen cuenta activa. No dedicar más de 3 minutos adicionales a resolver problemas de acceso en clase.*
+Perfecto. Con esto Devin ya tiene acceso al repositorio y podemos trabajar sobre él durante toda la sesión de hoy. En esta sesión solo le pediremos análisis — no le daremos instrucciones de modificar nada.
 
 Perfecto. Empezamos con la teoría.
 
